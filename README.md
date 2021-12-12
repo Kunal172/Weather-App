@@ -1,15 +1,36 @@
-# WeatherJS
+# Weather App
 
-The WeatherJS web application built using HTML5/CSS3, Bootstrap4, Vanilla JavaScript and OpenWeatherMap API.
+It is a React app that tell the users the weather of the city the want to know. 
+ <br/>
+This project is built using HTML5, CSS3, ReactJS and NodeJS. It fetches the weather data from OpenWeatherMap API.
 
-This project is built using HTML5/CSS3 and Bootstrap 4. It uses Vanilla Javascript to fetch data from OpenWeatherMap API. Data will be persisted to localStorage which means the data stored in the browser will persist even after the browser window is closed.
+## Features
 
-# Useful Resources-
+- Users can know the weather of the city they want by searching the name of city.
 
-1.Azou - https://www.youtube.com/channel/UCbOzgDmcSgwKv2tE7EXl3BQ
+ 
+## Technologies
 
-2.OpenWeatherMap API- https://openweathermap.org/current
+- HTML5
 
-3.Bootswatch -https://bootswatch.com/
+- CSS3
 
-4.Bootstrap- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+- REACTJS (FRONTEND LIBRARY)
+
+- NODEJS
+
+### Usage
+```
+# It will install all the directories.
+npm install
+
+# It will start the website at http://localhost:3000
+npm start
+
+```
+
+### Useful Resources-
+
+1. Azou - https://www.youtube.com/channel/UCbOzgDmcSgwKv2tE7EXl3BQ
+
+2. OpenWeatherMap API- https://openweathermap.org/
