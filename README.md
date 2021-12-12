@@ -1,13 +1,13 @@
 # Weather App
 
-It is a React app that tell the users the weather of the city the want to know. 
+It is a React app that tells the user the weather of the cities they want to know. 
  <br/>
 This project is built using HTML5, CSS3, ReactJS and NodeJS. It fetches the weather data from OpenWeatherMap API.
 
 ## Features
 
-- Users can know the weather of the city they want by searching the name of city.
-
+- Users can search for the cities. 
+- With the help of this app, they can know the weather of that city. 
  
 ## Technologies
 
