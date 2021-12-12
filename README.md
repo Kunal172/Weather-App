@@ -6,7 +6,7 @@ This project is built using HTML5/CSS3 and Bootstrap 4. It uses Vanilla Javascri
 
 # Useful Resources-
 
-1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
+1.Azou - https://www.youtube.com/channel/UCbOzgDmcSgwKv2tE7EXl3BQ
 
 2.OpenWeatherMap API- https://openweathermap.org/current
 
